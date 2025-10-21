@@ -6,6 +6,13 @@
 <br>
 [**Hujun Bao**](http://www.cad.zju.edu.cn/home/bao) · [**Zhaopeng Cui**](https://zhpcui.github.io/) · [**Guofeng Zhang**](http://www.cad.zju.edu.cn/home/gfzhang/)<sup>&dagger;</sup> 
 <br>
+
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-AtlasGS-b31b1b?logo=arxiv&logoColor=b31b1b)]()
+[![Safari](https://img.shields.io/badge/Project_Page-AtlasGS-green?logo=safari&logoColor=fff)](https://zju3dv.github.io/AtlasGS)
+
+
 </div>
 
 ![AtlasGS](./assets/teaser.gif)
