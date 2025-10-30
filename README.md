@@ -9,7 +9,7 @@
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-AtlasGS-b31b1b?logo=arxiv&logoColor=b31b1b)]()
+[![arXiv](https://img.shields.io/badge/arXiv-AtlasGS-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2510.25129)
 [![Safari](https://img.shields.io/badge/Project_Page-AtlasGS-green?logo=safari&logoColor=fff)](https://zju3dv.github.io/AtlasGS)
 
 
