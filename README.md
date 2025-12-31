@@ -11,6 +11,8 @@
 [![Safari](https://img.shields.io/badge/Project_Page-AtlasGS-green?logo=safari&logoColor=fff)](https://zju3dv.github.io/AtlasGS)
 [![Google Drive](https://img.shields.io/badge/Datasets-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1yRcA9sHlbqaH0pUQXhhjschCcnKdFXyo?usp=drive_link)
 
+![](assets/teaser.gif)
+
 </div>
 
 ## News
