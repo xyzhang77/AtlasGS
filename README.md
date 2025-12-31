@@ -200,7 +200,7 @@ python scripts/train_eval_scannetpp.py
 
 ## Pretrained Models
 
-We provide pretrained models for quick testing and evaluation without training from scratch.
+We provide [pretrained models](https://drive.google.com/file/d/1GwWmfxFN9G4AikO3MW7wg_zKBsB2ltGr/view?usp=drive_link) for quick testing and evaluation without training from scratch.
 
 ### Available Models
 
@@ -208,12 +208,9 @@ We provide pretrained models for quick testing and evaluation without training f
 - **ScanNet++**: 8b5caf3398, b20a261fdf, f34d532901, f6659a3107  
 - **Replica**: office0-3, room0-2
 
-### Download and Usage
+### Usage
 
 ```bash
-# Download pretrained models (link will be provided)
-wget https://drive.google.com/your_pretrained_models_link
-
 # Use for rendering
 python render.py -m path/to/pretrained/model
 
