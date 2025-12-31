@@ -13,6 +13,17 @@
 
 </div>
 
+## News
+
+- **[2025-12-31]**: Release the initial version of codes, datasets, checkpoints.
+
+## TODO
+
+- [x] Release codes.
+- [x] Release datasets.
+- [x] Realese checkpoints.
+- [ ] Add viewer.
+
 ## Table of Contents
 
 1. [Installation](#installation)

@@ -1,0 +1,3 @@
+[submodule "submodules/diff-surfel-rasterization/third_party/glm"]
+	path = submodules/diff-surfel-rasterization/third_party/glm
+	url = https://github.com/g-truc/glm.git
