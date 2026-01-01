@@ -13,7 +13,7 @@ This guide provides comprehensive instructions for processing various datasets t
 
 We provide preprocessed datasets for immediate use:
 
-- **[ScanNet](https://drive.google.com/file/d/14COBnkAVHIMlZawDNRX0rbEbu66vRpp1/view?usp=drive_link)**: scene0050_00, scene0084_00, scene0580_00, scene0616_00
+- **[ScanNet](https://drive.google.com/file/d/1Kq7rkQNfthE_rBj0h-qxXFth-lCGkUkL/view?usp=drive_link)**: scene0050_00, scene0084_00, scene0580_00, scene0616_00
 - **[ScanNet++](https://drive.google.com/file/d/1VjF16BKDBXHOHaF0k3puymmoYcICBo4W/view?usp=drive_link)**: 8b5caf3398, b20a261fdf, f34d532901, f6659a3107
 - **[Replica](https://drive.google.com/file/d/1Jv2YnVsR0rJXREk8ohGUjvsCRdsCCdrk/view?usp=drive_link)**: office0-3, room0-2
 
