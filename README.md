@@ -231,12 +231,13 @@ We acknowledge the following inspiring prior work:
 If you use this code in your research, please cite:
 
 ```bibtex
-@inproceedings{
-zhang2025atlasgs,
-title={Atlas{GS}: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians},
-author={Xiyu Zhang and Chong Bao and YiPeng Chen and Hongjia Zhai and Yitong Dong and Hujun Bao and Zhaopeng Cui and Guofeng Zhang},
-booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-year={2025},
+@article{zhang2026atlasgs,
+  title={AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians},
+  author={Zhang, Xiyu and Bao, Chong and Chen, Yipeng and Zhai, Hongjia and Dong, Yitong and Bao, Hujun and Cui, Zhaopeng and Zhang, Guofeng},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={15556--15580},
+  year={2026}
 }
 ```
 
